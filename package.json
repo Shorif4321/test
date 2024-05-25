@@ -14,7 +14,7 @@
     "prepare": "husky"
   },
   "lint-staged": {
-    "src/**/*.ts": "npm run lint-prettier"
+    "src/**/*.ts" : "npm run lint-prettier"
   },
   "author": "",
   "license": "ISC",
